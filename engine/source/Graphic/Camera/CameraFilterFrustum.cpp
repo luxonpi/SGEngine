@@ -1,7 +1,4 @@
-/////////////////////////////////////////////////////
-//     			2016 © Max Gittel     	           //
-/////////////////////////////////////////////////////
-//  SGEngine
+
 #include "SCamera.h"
 #include "CameraFilterFrustum.h"
 #include "GraphicDeviceDefines.h"

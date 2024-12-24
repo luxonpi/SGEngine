@@ -1,6 +1,4 @@
-/////////////////////////////////////////////////////
-//      Sirnic's Game Engine © Max Gittel          //
-/////////////////////////////////////////////////////
+
 
 #ifndef SGENGINE_APPLICATIONCONTROLLER_H
 #define SGENGINE_APPLICATIONCONTROLLER_H
